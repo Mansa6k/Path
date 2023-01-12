@@ -61,7 +61,6 @@ Evaluate the Stock and Bond Holidings by Using the ```Alpaca SDK```
 
 Evaluate the Emergency Fund
 
-![Savings Portoflio](Images/savings.png)
 
 Part 2 - Create a Financial Planner for Retirement
 
@@ -74,7 +73,7 @@ Create the Monte Carlo Simulation - Forecast Cumulative Returns for 10 Years
 
 Provide Investment Advice - Recommend the portfolio whose time horizon supports retirement goals
 
-![Sample Histogram](Images/5-4-monte-carlo-histogram.png)
+
 
 ---
 

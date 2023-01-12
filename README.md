@@ -1,4 +1,4 @@
-###challenge5
+challenge5
 Fintech consultation for a large credit union; to help benefit local commuinties they serve.
 
 Requirements: Create two financial analysis tools by using a single Jupyter notebook:
@@ -9,7 +9,7 @@ Part 2: A financial planner for retirement. This tool will forecast the performa
 
 You’ll use the information from the Monte Carlo simulation to answer questions about the portfolio to provide investment advice.
 
-##Technologies
+Technologies
 Python v3.9.15
 
 OS Miscellaneous operating system interfaces
@@ -34,7 +34,7 @@ Pytz This library allows accurate and cross platform timezone calculations
 
 MCSimulation A Python class for runnning Monte Carlo simulation on portfolio price data.
 
-##Installation Guide
+Installation Guide
 pip install os
 pip install -c anaconda requests
 pip install pandas
@@ -43,7 +43,7 @@ pip install alpaca-trade-api
 pip install -c jmcmurray json
 pip install numpy
 pip install datetime
-##Usage
+Usage
 Part 1 - Create a Financial Plan for Emergencies
 
 Evaluate Crypto Holdings Using Requests Library
@@ -66,8 +66,8 @@ Provide Investment Advice - Recommend the portfolio whose time horizon supports 
 
 Sample Histogram
 
-##Contributors
+Contributors
 Andre Johnson
 
-##License
+License
 MIT
